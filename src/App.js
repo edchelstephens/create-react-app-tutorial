@@ -9,14 +9,15 @@ function App() {
           <code>Ed Reacts!</code>
         </p>
         <img src="https://avatars.githubusercontent.com/u/49672830?v=4" className="img-circle"></img>
+        <b className="App-link">@
         <a
-          className="App-link"
+          className="App-link text-bold"
           href="https://github.com/edchelstephens/create-react-app-tutorial"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          github repository
+        >edchelstephens
         </a>
+        </b>
         <p>
           <code>Believer. Driven.<br></br> 
             Loves basketball. <br></br> 
