@@ -12,7 +12,7 @@ function App() {
         <b className="App-link">@
         <a
           className="App-link text-bold"
-          href="https://github.com/edchelstephens/create-react-app-tutorial"
+          href="https://github.com/edchelstephens/"
           target="_blank"
           rel="noopener noreferrer"
         >edchelstephens
