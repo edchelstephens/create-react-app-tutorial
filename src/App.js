@@ -6,9 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p className="App-link text-bold">
           <code>Ed Reacts!</code>
         </p>
+        <img src="https://avatars.githubusercontent.com/u/49672830?v=4" className="img-circle"></img>
         <a
           className="App-link"
           href="https://github.com/edchelstephens/create-react-app-tutorial"
@@ -17,6 +18,11 @@ function App() {
         >
           github repository
         </a>
+        <p>
+          <code>Believer. Driven.<br></br> 
+            Loves basketball. <br></br> 
+            Passion for Computing and Self-Development. <br></br> 
+            Python Django React Full Stack Web Developer.</code></p>
       </header>
     </div>
   );
