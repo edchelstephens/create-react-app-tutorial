@@ -8,7 +8,7 @@ function App() {
         <p className="App-link text-bold">
           <code>Ed Reacts!</code>
         </p>
-        <img src="https://avatars.githubusercontent.com/u/49672830?v=4" className="img-circle"></img>
+        <img src="https://avatars.githubusercontent.com/u/49672830?v=4" alt="ed profile" className="img-circle"></img>
         <b className="App-link">@
         <a
           className="App-link text-bold"
